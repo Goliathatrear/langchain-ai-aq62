@@ -1,4 +1,4 @@
-# 
+# Open Source LangChain tools. Featuring data-indexing and user-friendly-interface — optimized for maximum performance and efficiency.
 
 
 
